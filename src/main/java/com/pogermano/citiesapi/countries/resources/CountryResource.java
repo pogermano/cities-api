@@ -1,7 +1,7 @@
 package com.pogermano.citiesapi.countries.resources;
 
 import com.pogermano.citiesapi.countries.Country;
-import com.pogermano.citiesapi.countries.repository.CountryRepository;
+import com.pogermano.citiesapi.countries.repositories.CountryRepository;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.http.ResponseEntity;
