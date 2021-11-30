@@ -1,6 +1,6 @@
 package com.pogermano.citiesapi.cities.resources;
 
-import com.pogermano.citiesapi.cities.City;
+import com.pogermano.citiesapi.cities.entities.City;
 import com.pogermano.citiesapi.cities.repositories.CityRepository;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;

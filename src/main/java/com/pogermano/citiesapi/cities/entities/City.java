@@ -1,8 +1,7 @@
-package com.pogermano.citiesapi.cities;
+package com.pogermano.citiesapi.cities.entities;
 
 import javax.persistence.*;
 
-import com.pogermano.citiesapi.countries.Country;
 import com.pogermano.citiesapi.states.State;
 import org.hibernate.annotations.Type;
 import org.hibernate.annotations.TypeDef;

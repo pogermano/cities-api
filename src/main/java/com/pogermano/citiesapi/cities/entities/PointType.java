@@ -1,4 +1,4 @@
-package com.pogermano.citiesapi.cities;
+package com.pogermano.citiesapi.cities.entities;
 
 
 import java.io.Serializable;
